@@ -1,11 +1,11 @@
 body {
-  background-color: #0a2f66; /* azul escuro */
+  background-color: #000000; /* preto */
   color: #8c6b0a; /* dourado escuro */
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 header, footer {
-  background-color: #0a1f44; /* azul mais escuro */
+  background-color: #000000; /* preto */
   color: #d4af37; /* dourado claro para header e footer */
   padding: 20px 0;
 }
@@ -21,5 +21,5 @@ a:hover {
 
 .badge.bg-secondary {
   background-color: #6b5207 !important; /* dourado mais escuro para badges */
-  color: #0a2f66;
+  color: #000000;
 }
